@@ -14,7 +14,7 @@ html {
 }
 
 a{
-  color: #4caf50;
+  color: blue;
 }
 
 nav{
@@ -126,7 +126,7 @@ h2, strong, h3{
   text-align: justify;
   padding-bottom: 10px;
   font-size: 14px;
-  color: #666;
+  color: red;
 }
 
 .form-input input:not([type="submit"]):not([type="radio"]):not([type="date"]), textarea{
@@ -182,7 +182,7 @@ h2, strong, h3{
 }
 
 .error{
-  background-color: #ffeb3b;
+  background-color: red;
 }
 
 .tracks{
